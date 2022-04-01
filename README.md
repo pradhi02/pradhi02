@@ -1,7 +1,7 @@
 - 👋 Hi, I’m pradhi
 - 👀 I’m interested in coding,writing and orating. 
 - 🌱 I’m currently learning HTML,CSS and intern at collegedunia for content writing.
-- 💞️ I’m looking to collaborate on web development projects bith front and back-end. 
+- 💞️ I’m looking to collaborate on web development projects both front and back-end. 
 - 📫 How to reach me   
 - linkedin 
 https://www.linkedin.com/in/pradhi-rajak-895685222 
