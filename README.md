@@ -1,8 +1,8 @@
 - 👋 Hi, I’m pradhi
-- 👀 I’m interested in coding,writing and orating. 
-- 🌱 I’m currently learning HTML,CSS and intern at collegedunia for content writing.
-- 💞️ I’m looking to collaborate on web development projects both front and back-end. 
-- 📫 How to reach me   
+- 👀 I’m a tech tech enthusiast. 
+- 🌱 I solve DSA in cpp and currently exploring tech domains, with intermediate knowledge of CS fundamantals.
+- 💞️ I’m looking to collaborate on open source projects . 
+- 📫 How to reach me    
 - linkedin 
 https://www.linkedin.com/in/pradhi-rajak-895685222 
 gmail- rajakpradhi0203@gmail.com
