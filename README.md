@@ -5,7 +5,7 @@
 - 📫 How to reach me    
 - linkedin 
 https://www.linkedin.com/in/pradhi-rajak-895685222 
-gmail- rajakpradhi0203@gmail.com
+gmail- pradhirajak02@gmail.com
 <!---
 pradhi02/pradhi02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
