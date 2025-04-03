@@ -17,4 +17,4 @@
 pradhi02/pradhi02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-[![Pradhi's github Stats](https://github-readme-stats.vercel.app/api?username=Pradhi)](https://github.com/pradhi02/github-readme-stats))]
+[![Pradhi's github Stats](https://github-readme-stats.vercel.app/api?username=pradhi02)](https://github.com/pradhi02/github-readme-stats)]
