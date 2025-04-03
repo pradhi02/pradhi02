@@ -5,7 +5,7 @@
 
 -👨‍💻 Solving DSA in C++ and sharpening problem-solving skills.
 
--🚀 Learning in public—constantly updating my code and projects on GitHub.
+-🚀 Learning in public constantly updating my code and projects on GitHub.
 
 -💡 Exploring open-source contributions and real-world development.
 
